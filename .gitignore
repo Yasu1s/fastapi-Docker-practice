@@ -1,0 +1,4 @@
+fastapi-app/model/model.h5
+myenv/
+__pycache__/
+*.pkl
